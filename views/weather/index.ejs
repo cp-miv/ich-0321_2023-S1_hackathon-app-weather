@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Météo actuelle à <%= city %></title>
+	</head>
+	<body>
+		<form method="get" action="#">
+			<input type="text" name="city" value="<%= city %>">
+			<button type="submit">Rechercher</button>
+		</form>
+
+		<h1>Météo actuelle à <%= city %></h1>
+		<p>Température: <%= temperature %>°C</p>
+		<p>Description: <%= description %></p>
+
+		<h2>Historique des 10 dernières prévisions</h2>
+		<ul>
+			<% lastForecasts.forEach(forecast => { %>
+			<li>
+				<%= forecast.city %> - Température: <%= forecast.temperature %>°C - Description: <%= forecast.description %> - Timestamp: <%= forecast.timestamp %>
+			</li>
+			<% }); %>
+		</ul>
+	</body>
+</html>

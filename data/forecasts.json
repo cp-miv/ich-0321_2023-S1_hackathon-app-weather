@@ -1,0 +1,548 @@
+[
+  {
+    "city": "bern",
+    "temperature": 23.12,
+    "description": "ciel dégagé",
+    "timestamp": 1692000269769
+  },
+  {
+    "city": "bern",
+    "temperature": 23.12,
+    "description": "ciel dégagé",
+    "timestamp": 1692000293650
+  },
+  {
+    "city": "moutier",
+    "temperature": 23.22,
+    "description": "ciel dégagé",
+    "timestamp": 1692000299082
+  },
+  {
+    "city": "moutier",
+    "temperature": 23.22,
+    "description": "ciel dégagé",
+    "timestamp": 1692000370558
+  },
+  {
+    "city": "moutier",
+    "temperature": 23.22,
+    "description": "ciel dégagé",
+    "timestamp": 1692000374628
+  },
+  {
+    "city": "moutier",
+    "temperature": 23.22,
+    "description": "ciel dégagé",
+    "timestamp": 1692000376161
+  },
+  {
+    "city": "bern",
+    "temperature": 23.12,
+    "description": "ciel dégagé",
+    "timestamp": 1692000379810
+  },
+  {
+    "city": "moutier",
+    "temperature": 23.47,
+    "description": "ciel dégagé",
+    "timestamp": 1692001462330
+  },
+  {
+    "city": "moutier",
+    "temperature": 23.47,
+    "description": "ciel dégagé",
+    "timestamp": 1692001933235
+  },
+  {
+    "city": "moutier",
+    "temperature": 24.89,
+    "description": "ciel dégagé",
+    "timestamp": 1692002394643
+  },
+  {
+    "city": "moutier",
+    "temperature": 24.89,
+    "description": "ciel dégagé",
+    "timestamp": 1692002662423
+  },
+  {
+    "city": "bern",
+    "temperature": 24.99,
+    "description": "ciel dégagé",
+    "timestamp": 1692002668247
+  },
+  {
+    "city": "moutier",
+    "temperature": 24.89,
+    "description": "ciel dégagé",
+    "timestamp": 1692002827136
+  },
+  {
+    "city": "moutier",
+    "temperature": 25.17,
+    "description": "ciel dégagé",
+    "timestamp": 1692003240804
+  },
+  {
+    "city": "moutier",
+    "temperature": 25.17,
+    "description": "ciel dégagé",
+    "timestamp": 1692003262137
+  },
+  {
+    "city": "moutier",
+    "temperature": 25.17,
+    "description": "ciel dégagé",
+    "timestamp": 1692003304952
+  },
+  {
+    "city": "moutier",
+    "temperature": 25.17,
+    "description": "ciel dégagé",
+    "timestamp": 1692003326896
+  },
+  {
+    "city": "moutier",
+    "temperature": 25.17,
+    "description": "ciel dégagé",
+    "timestamp": 1692003363042
+  },
+  {
+    "city": "moutier",
+    "temperature": 25.17,
+    "description": "ciel dégagé",
+    "timestamp": 1692003501993
+  },
+  {
+    "city": "moutier",
+    "temperature": 30.3,
+    "description": "ciel dégagé",
+    "timestamp": 1692027201710
+  },
+  {
+    "city": "moutier",
+    "temperature": 30.3,
+    "description": "ciel dégagé",
+    "timestamp": 1692027358191
+  },
+  {
+    "city": "moutier",
+    "temperature": 11.78,
+    "description": "pluie modérée",
+    "timestamp": 1698147338842
+  },
+  {
+    "city": "moutier",
+    "temperature": 11.78,
+    "description": "pluie modérée",
+    "timestamp": 1698147367096
+  },
+  {
+    "city": "moutier",
+    "temperature": 11.78,
+    "description": "pluie modérée",
+    "timestamp": 1698147368128
+  },
+  {
+    "city": "moutier",
+    "temperature": 11.78,
+    "description": "pluie modérée",
+    "timestamp": 1698147368733
+  },
+  {
+    "city": "moutier",
+    "temperature": 11.78,
+    "description": "pluie modérée",
+    "timestamp": 1698147369461
+  },
+  {
+    "city": "moutier",
+    "temperature": 11.78,
+    "description": "pluie modérée",
+    "timestamp": 1698147369918
+  },
+  {
+    "city": "moutier",
+    "temperature": 11.78,
+    "description": "pluie modérée",
+    "timestamp": 1698147370338
+  },
+  {
+    "city": "moutier",
+    "temperature": 11.78,
+    "description": "pluie modérée",
+    "timestamp": 1698147450812
+  },
+  {
+    "city": "biel",
+    "temperature": 12.68,
+    "description": "pluie modérée",
+    "timestamp": 1698147456890
+  },
+  {
+    "city": "biel",
+    "temperature": 12.68,
+    "description": "pluie modérée",
+    "timestamp": 1698147459683
+  },
+  {
+    "city": "biel",
+    "temperature": 12.68,
+    "description": "pluie modérée",
+    "timestamp": 1698147460271
+  },
+  {
+    "city": "moutier",
+    "temperature": 11.78,
+    "description": "pluie modérée",
+    "timestamp": 1698147463119
+  },
+  {
+    "city": "moutier",
+    "temperature": 15.04,
+    "description": "partiellement nuageux",
+    "timestamp": 1698322027292
+  },
+  {
+    "city": "bern",
+    "temperature": 15.14,
+    "description": "nuageux",
+    "timestamp": 1698322033303
+  },
+  {
+    "city": "biel",
+    "temperature": 15.79,
+    "description": "partiellement nuageux",
+    "timestamp": 1698322041904
+  },
+  {
+    "city": "tavannes",
+    "temperature": 13.76,
+    "description": "partiellement nuageux",
+    "timestamp": 1698322046718
+  },
+  {
+    "city": "tavannes",
+    "temperature": 13.76,
+    "description": "partiellement nuageux",
+    "timestamp": 1698322050382
+  },
+  {
+    "city": "tavannes",
+    "temperature": 13.76,
+    "description": "partiellement nuageux",
+    "timestamp": 1698322108229
+  },
+  {
+    "city": "moutier",
+    "temperature": 15.04,
+    "description": "partiellement nuageux",
+    "timestamp": 1698322113445
+  },
+  {
+    "city": "moutier",
+    "temperature": 15.11,
+    "description": "partiellement nuageux",
+    "timestamp": 1698323391831
+  },
+  {
+    "city": "Zurich",
+    "temperature": 16.04,
+    "description": "partiellement nuageux",
+    "timestamp": 1698325174485
+  },
+  {
+    "city": "Zurich",
+    "temperature": 16.02,
+    "description": "partiellement nuageux",
+    "timestamp": 1698325250094
+  },
+  {
+    "city": "moutier",
+    "temperature": 14.66,
+    "description": "partiellement nuageux",
+    "timestamp": 1698325254020
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.99,
+    "description": "légère pluie",
+    "timestamp": 1698328097442
+  },
+  {
+    "city": "biel",
+    "temperature": 14.84,
+    "description": "partiellement nuageux",
+    "timestamp": 1698328105701
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.99,
+    "description": "légère pluie",
+    "timestamp": 1698328186565
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.99,
+    "description": "légère pluie",
+    "timestamp": 1698328214580
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.99,
+    "description": "légère pluie",
+    "timestamp": 1698328314057
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.99,
+    "description": "légère pluie",
+    "timestamp": 1698328324625
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.99,
+    "description": "légère pluie",
+    "timestamp": 1698328354988
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.99,
+    "description": "légère pluie",
+    "timestamp": 1698328359281
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.99,
+    "description": "légère pluie",
+    "timestamp": 1698328360041
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.99,
+    "description": "légère pluie",
+    "timestamp": 1698328381675
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.96,
+    "description": "légère pluie",
+    "timestamp": 1698328722033
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.96,
+    "description": "légère pluie",
+    "timestamp": 1698328821935
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.96,
+    "description": "légère pluie",
+    "timestamp": 1698328824987
+  },
+  {
+    "city": "moutier",
+    "temperature": 13.96,
+    "description": "légère pluie",
+    "timestamp": 1698328889637
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.16,
+    "description": "légère pluie",
+    "timestamp": 1698387667086
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.16,
+    "description": "légère pluie",
+    "timestamp": 1698387687039
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.16,
+    "description": "légère pluie",
+    "timestamp": 1698387712154
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.16,
+    "description": "légère pluie",
+    "timestamp": 1698387719175
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.16,
+    "description": "légère pluie",
+    "timestamp": 1698387732014
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.16,
+    "description": "légère pluie",
+    "timestamp": 1698387759453
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.16,
+    "description": "légère pluie",
+    "timestamp": 1698387769074
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.36,
+    "description": "peu nuageux",
+    "timestamp": 1698388266828
+  },
+  {
+    "city": "mOuTiEr",
+    "temperature": 9.36,
+    "description": "peu nuageux",
+    "timestamp": 1698388275750
+  },
+  {
+    "city": "mOuTiEr",
+    "temperature": 9.36,
+    "description": "peu nuageux",
+    "timestamp": 1698388293256
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.36,
+    "description": "peu nuageux",
+    "timestamp": 1698388297030
+  },
+  {
+    "city": "moutieR",
+    "temperature": 9.36,
+    "description": "peu nuageux",
+    "timestamp": 1698388301480
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.36,
+    "description": "peu nuageux",
+    "timestamp": 1698388426374
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.36,
+    "description": "peu nuageux",
+    "timestamp": 1698388440499
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.36,
+    "description": "peu nuageux",
+    "timestamp": 1698388446343
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.36,
+    "description": "peu nuageux",
+    "timestamp": 1698388482107
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.36,
+    "description": "peu nuageux",
+    "timestamp": 1698388486768
+  },
+  {
+    "city": "moutier",
+    "temperature": 9.36,
+    "description": "peu nuageux",
+    "timestamp": 1698388639246
+  },
+  {
+    "city": "moutier",
+    "temperature": 5.65,
+    "description": "nuageux",
+    "timestamp": 1698993821177
+  },
+  {
+    "city": "moutier",
+    "temperature": 5.65,
+    "description": "nuageux",
+    "timestamp": 1698993866894
+  },
+  {
+    "city": "moutier",
+    "temperature": 5.65,
+    "description": "nuageux",
+    "timestamp": 1698993878505
+  },
+  {
+    "city": "moutier",
+    "temperature": 5.65,
+    "description": "nuageux",
+    "timestamp": 1698993930011
+  },
+  {
+    "city": "moutier",
+    "temperature": 5.65,
+    "description": "nuageux",
+    "timestamp": 1698993959915
+  },
+  {
+    "city": "moutier",
+    "temperature": 5.65,
+    "description": "bruine légère",
+    "timestamp": 1698994825082
+  },
+  {
+    "city": "moutier",
+    "temperature": 6.4,
+    "description": "pluie modérée",
+    "timestamp": 1699091439664
+  },
+  {
+    "city": "moutier",
+    "temperature": 6.4,
+    "description": "pluie modérée",
+    "timestamp": 1699091468803
+  },
+  {
+    "city": "moutier",
+    "temperature": 6.4,
+    "description": "pluie modérée",
+    "timestamp": 1699091469879
+  },
+  {
+    "city": "moutier",
+    "temperature": 6.4,
+    "description": "pluie modérée",
+    "timestamp": 1699091497062
+  },
+  {
+    "city": "moutier",
+    "temperature": 6.4,
+    "description": "pluie modérée",
+    "timestamp": 1699091497388
+  },
+  {
+    "city": "moutier",
+    "temperature": 6.4,
+    "description": "pluie modérée",
+    "timestamp": 1699091840095
+  },
+  {
+    "city": "moutier",
+    "temperature": 6.4,
+    "description": "pluie modérée",
+    "timestamp": 1699091842483
+  },
+  {
+    "city": "moutier",
+    "temperature": 6.4,
+    "description": "pluie modérée",
+    "timestamp": 1699092017696
+  },
+  {
+    "city": "moutier",
+    "temperature": 6.25,
+    "description": "pluie modérée",
+    "timestamp": 1699092092096
+  }
+]
