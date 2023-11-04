@@ -5,7 +5,7 @@
 	"build": {
 		"dockerfile": "Dockerfile",
 		// Update 'VARIANT' to pick a Node version: https://mcr.microsoft.com/v2/devcontainers/javascript-node/tags/list
-		"args": { "VARIANT": "18" }
+		"args": { "VARIANT": "20" }
 	},
 
 	// Set *default* container specific settings.json values on container create.
