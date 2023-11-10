@@ -8,8 +8,8 @@
             "name": "Launch server.js via nodemon",
             "type": "node",
             "request": "launch",
-            "runtimeExecutable": "nodemon",
-            "program": "${workspaceFolder}/server.js",
+            "runtimeExecutable": "npm",
+            "program": "start",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen"
           }
